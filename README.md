@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Framework for Alzheimer’s and Parkinson’s Classification
+# Transfer Learning-Based Classification of Alzheimer’s and Parkinson’s Diseases
 
 A deep learning-based research framework for automated classification of Alzheimer’s and Parkinson’s diseases using structural brain MRI scans.
 
